@@ -1,0 +1,226 @@
+{
+   "1": {
+      "RECOMMENDATION": "No repair needed. The car is functioning properly.",
+      "SYMPTOMS": {
+         "AUTOREPAIR PROBLEM": "NO"
+      },
+      "CONCLUSION": "CAR IS GOOD"
+   },
+   "2": {
+      "RECOMMENDATION": "Check the battery, alternator, and wiring. Repair or replace damaged components.",
+      "SYMPTOMS": {
+         "ELECTRICAL SYSTEM PROBLEM": "YES"
+      },
+      "CONCLUSION": "ELECTRICAL SYSTEM PROBLEM"
+   },
+   "3": {
+      "RECOMMENDATION": "Inspect the starter motor and solenoid. Replace if faulty.",
+      "SYMPTOMS": {
+         "STARTER PROBLEM": "YES"
+      },
+      "CONCLUSION": "STARTER PROBLEM"
+   },
+   "4": {
+      "RECOMMENDATION": "Check the battery charge and connections. Replace the battery if necessary.",
+      "SYMPTOMS": {
+         "BATTERY PROBLEM": "YES"
+      },
+      "CONCLUSION": "BATTERY PROBLEM"
+   },
+   "5": {
+      "RECOMMENDATION": "Check the power steering pump and fluid levels. Replace the pump or refill fluid.",
+      "SYMPTOMS": {
+         "POWER STEERING PUMP FAILURE": "YES"
+      },
+      "CONCLUSION": "POWER STEERING PUMP FAILURE"
+   },
+   "6": {
+      "RECOMMENDATION": "Inspect the engine for mechanical or electrical issues. Perform necessary repairs based on detailed engine diagnosis.",
+      "SYMPTOMS": {
+         "ENGINE PROBLEM": "YES"
+      },
+      "CONCLUSION": "ENGINE PROBLEM"
+   },
+   "7": {
+      "RECOMMENDATION": "Locate and repair the coolant leak. Replace any damaged hoses or the radiator if necessary.",
+      "SYMPTOMS": {
+         "COOLANT LEAK": "YES"
+      },
+      "CONCLUSION": "COOLANT LEAK"
+   },
+   "8": {
+      "RECOMMENDATION": "Test the radiator fan and replace if not functioning properly.",
+      "SYMPTOMS": {
+         "RADIATOR FAN MALFUNCTION": "YES"
+      },
+      "CONCLUSION": "RADIATOR FAN MALFUNCTION"
+   },
+   "9": {
+      "RECOMMENDATION": "Inspect and replace spark plugs, ignition coils, or wires to resolve the misfire.",
+      "SYMPTOMS": {
+         "ENGINE MISFIRE": "YES"
+      },
+      "CONCLUSION": "ENGINE MISFIRE"
+   },
+   "10": {
+      "RECOMMENDATION": "Check the fuel pump and fuel lines for leaks or blockages. Replace faulty components.",
+      "SYMPTOMS": {
+         "LOW FUEL PRESSURE": "YES"
+      },
+      "CONCLUSION": "LOW FUEL PRESSURE"
+   },
+   "11": {
+      "RECOMMENDATION": "Clean or replace the air filter and inspect the intake manifold for leaks.",
+      "SYMPTOMS": {
+         "AIR INTAKE SYSTEM PROBLEM": "YES"
+      },
+      "CONCLUSION": "AIR INTAKE SYSTEM PROBLEM"
+   },
+   "12": {
+      "RECOMMENDATION": "Check the transmission for fluid levels and mechanical issues. Perform detailed transmission diagnosis.",
+      "SYMPTOMS": {
+         "TRANSMISSION PROBLEM": "YES"
+      },
+      "CONCLUSION": "TRANSMISSION PROBLEM"
+   },
+   "13": {
+      "RECOMMENDATION": "Check and refill or replace the transmission fluid as needed.",
+      "SYMPTOMS": {
+         "TRANSMISSION FLUID PROBLEM": "YES"
+      },
+      "CONCLUSION": "TRANSMISSION FLUID PROBLEM"
+   },
+   "14": {
+      "RECOMMENDATION": "Inspect the transmission and replace worn clutches or gears. Refill transmission fluid.",
+      "SYMPTOMS": {
+         "TRANSMISSION SLIPPAGE PROBLEM": "YES"
+      },
+      "CONCLUSION": "TRANSMISSION SLIPPAGE PROBLEM"
+   },
+   "15": {
+      "RECOMMENDATION": "Replace the damaged transmission mounts.",
+      "SYMPTOMS": {
+         "DAMAGED TRANSMISSION MOUNTS": "YES"
+      },
+      "CONCLUSION": "DAMAGED TRANSMISSION MOUNTS"
+   },
+   "16": {
+      "RECOMMENDATION": "Repair the transmission fluid leak and refill fluid.",
+      "SYMPTOMS": {
+         "TRANSMISSION FLUID LEAK": "YES"
+      },
+      "CONCLUSION": "TRANSMISSION FLUID LEAK"
+   },
+   "17": {
+      "RECOMMENDATION": "Inspect the brake system for leaks, wear, or mechanical issues. Perform necessary repairs.",
+      "SYMPTOMS": {
+         "BRAKE SYSTEM PROBLEM": "YES"
+      },
+      "CONCLUSION": "BRAKE SYSTEM PROBLEM"
+   },
+   "18": {
+      "RECOMMENDATION": "Refill brake fluid and check for leaks in the brake system.",
+      "SYMPTOMS": {
+         "LOW BRAKE FLUID": "YES"
+      },
+      "CONCLUSION": "LOW BRAKE FLUID"
+   },
+   "19": {
+      "RECOMMENDATION": "Bleed the brake lines to remove air and refill brake fluid.",
+      "SYMPTOMS": {
+         "AIR IN BRAKE LINES": "YES"
+      },
+      "CONCLUSION": "AIR IN BRAKE LINES"
+   },
+   "20": {
+      "RECOMMENDATION": "Inspect the brake booster and vacuum lines. Replace faulty components.",
+      "SYMPTOMS": {
+         "VACUUM SYSTEM ISSUE": "YES"
+      },
+      "CONCLUSION": "VACUUM SYSTEM ISSUE"
+   },
+   "21": {
+      "RECOMMENDATION": "Replace the worn brake pads to improve braking performance.",
+      "SYMPTOMS": {
+         "WORN BRAKE PADS": "YES"
+      },
+      "CONCLUSION": "WORN BRAKE PADS"
+   },
+   "22": {
+      "RECOMMENDATION": "Inspect the steering and suspension system. Replace worn or damaged components.",
+      "SYMPTOMS": {
+         "STEERING/SUSPENSION PROBLEM": "YES"
+      },
+      "CONCLUSION": "STEERING/SUSPENSION PROBLEM"
+   },
+   "23": {
+      "RECOMMENDATION": "Resurface or replace the brake rotors.",
+      "SYMPTOMS": {
+         "WARPED BRAKE ROTORS": "YES"
+      },
+      "CONCLUSION": "WARPED BRAKE ROTORS"
+   },
+   "24": {
+      "RECOMMENDATION": "Balance the tires and inspect them for uneven wear.",
+      "SYMPTOMS": {
+         "UNBALANCED TIRES": "YES"
+      },
+      "CONCLUSION": "UNBALANCED TIRES"
+   },
+   "25": {
+      "RECOMMENDATION": "Refill the power steering fluid and inspect for leaks.",
+      "SYMPTOMS": {
+         "LOW POWER STEERING FLUID": "YES"
+      },
+      "CONCLUSION": "LOW POWER STEERING FLUID"
+   },
+   "26": {
+      "RECOMMENDATION": "Lubricate or replace the binding steering components.",
+      "SYMPTOMS": {
+         "BINDING STEERING COMPONENTS": "YES"
+      },
+      "CONCLUSION": "BINDING STEERING COMPONENTS"
+   },
+   "27": {
+      "RECOMMENDATION": "Replace the worn CV joints to prevent further damage.",
+      "SYMPTOMS": {
+         "WORN CV JOINTS": "YES"
+      },
+      "CONCLUSION": "WORN CV JOINTS"
+   },
+   "28": {
+      "RECOMMENDATION": "Tighten or replace the heat shield to stop the noise.",
+      "SYMPTOMS": {
+         "LOOSE OR BROKEN HEAT SHIELD": "YES"
+      },
+      "CONCLUSION": "LOOSE OR BROKEN HEAT SHIELD"
+   },
+   "29": {
+      "RECOMMENDATION": "Inspect and repair the exhaust system to fix the leak.",
+      "SYMPTOMS": {
+         "EXHAUST LEAK": "YES"
+      },
+      "CONCLUSION": "EXHAUST LEAK"
+   },
+   "30": {
+      "RECOMMENDATION": "Check the head gasket and engine block for cracks. Repair or replace damaged components.",
+      "SYMPTOMS": {
+         "COOLANT LEAKING INTO ENGINE": "YES"
+      },
+      "CONCLUSION": "COOLANT LEAKING INTO ENGINE"
+   },
+   "31": {
+      "RECOMMENDATION": "Adjust the air-fuel mixture. Inspect the fuel injectors and oxygen sensor.",
+      "SYMPTOMS": {
+         "ENGINE RUNNING TOO RICH": "YES"
+      },
+      "CONCLUSION": "ENGINE RUNNING TOO RICH"
+   },
+   "32": {
+      "RECOMMENDATION": "Inspect and replace worn piston rings or valve seals.",
+      "SYMPTOMS": {
+         "ENGINE BURNING OIL": "YES"
+      },
+      "CONCLUSION": "ENGINE BURNING OIL"
+   }
+}

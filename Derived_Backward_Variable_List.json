@@ -1,0 +1,15 @@
+{
+    "exhaust problem": {
+        "derived_variable": "LOOSE OR BROKEN HEAT SHIELD",
+        "dependencies": [
+            "Symptoms collected based on user input"
+        ]
+    },
+    "starting problem": {
+        "derived_variable": "STARTER PROBLEM",
+        "dependencies": {
+            "CLICKING SOUND": "yes",
+            "POWER": "yes"
+        }
+    }
+}
