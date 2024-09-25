@@ -1,0 +1,309 @@
+2024-09-24 00:33:41 PROGRAM START
+2024-09-24 00:33:41 PROGRAM START
+2024-09-24 00:33:52 PROGRAM START
+2024-09-24 00:33:52 PROGRAM START
+2024-09-24 00:38:48 PROGRAM START
+2024-09-24 00:38:48 PROGRAM START
+2024-09-24 00:38:48 Starting backward chaining process
+2024-09-24 00:38:51 User input received: yes
+2024-09-24 00:38:57 Goal variable selected: starting problem
+2024-09-24 00:38:57 Defining goal variable as 'STARTING PROBLEM'
+2024-09-24 00:43:58 PROGRAM START
+2024-09-24 00:43:58 PROGRAM START
+2024-09-24 00:43:58 Starting backward chaining process
+2024-09-24 00:44:10 User input received: yes
+2024-09-24 00:44:15 Goal variable selected: engine issue
+2024-09-24 00:44:15 Defining goal variable as 'ENGINE ISSUE'
+2024-09-24 00:44:15 Searching conclusion list for goal: ENGINE ISSUE
+2024-09-24 00:44:15 Matching goals found: [7, 8, 9, 10, 11]
+2024-09-24 00:46:04 PROGRAM START
+2024-09-24 00:46:08 PROGRAM START
+2024-09-24 00:46:08 PROGRAM START
+2024-09-24 00:46:08 Starting backward chaining process
+2024-09-24 00:46:11 User input received: yes
+2024-09-24 00:46:16 Goal variable selected: engine problem
+2024-09-24 00:47:12 PROGRAM START
+2024-09-24 00:47:12 PROGRAM START
+2024-09-24 00:47:12 Starting backward chaining process
+2024-09-24 00:47:15 User input received: yes
+2024-09-24 00:47:20 Goal variable selected: engine issue
+2024-09-24 00:47:20 Defining goal variable as 'ENGINE ISSUE'
+2024-09-24 00:47:20 Searching conclusion list for goal: ENGINE ISSUE
+2024-09-24 00:47:20 Matching goals found: [7, 8, 9, 10, 11]
+2024-09-24 00:47:20 Updating variable list for clause: 49
+2024-09-24 00:47:20 Searching conclusion list for goal: ENGINE PROBLEM
+2024-09-24 00:47:20 Matching goals found: [6]
+2024-09-24 00:47:20 Updating variable list for clause: 41
+2024-09-24 00:47:26 Validating rule 6
+2024-09-24 00:47:53 PROGRAM START
+2024-09-24 00:47:53 PROGRAM START
+2024-09-24 00:47:53 Starting backward chaining process
+2024-09-24 00:47:56 User input received: yes
+2024-09-24 00:48:03 Goal variable selected: transition problem
+2024-09-24 00:48:03 Defining goal variable as 'TRANSMISSION ISSUE'
+2024-09-24 00:48:03 Searching conclusion list for goal: TRANSMISSION ISSUE
+2024-09-24 00:48:03 Matching goals found: [13, 14, 15, 16]
+2024-09-24 00:48:03 Updating variable list for clause: 97
+2024-09-24 00:48:03 Searching conclusion list for goal: TRANSMISSION PROBLEM
+2024-09-24 00:48:03 Matching goals found: [12]
+2024-09-24 00:48:03 Updating variable list for clause: 89
+2024-09-24 00:48:11 Validating rule 12
+2024-09-24 00:48:11 Updated global variable TRANSMISSION PROBLEM to 'yes'
+2024-09-24 00:48:13 Validating rule 13
+2024-09-24 00:48:13 Calling forward chaining process for repair recommendation
+2024-09-24 00:48:13 Searching clause variable list for goal: TRANSMISSION FLUID PROBLEM
+2024-09-24 00:49:31 PROGRAM START
+2024-09-24 00:49:31 Forward chaining started
+2024-09-24 00:49:34 PROGRAM START
+2024-09-24 00:49:34 PROGRAM START
+2024-09-24 00:49:34 Starting backward chaining process
+2024-09-24 00:49:37 User input received: yes
+2024-09-24 00:49:49 Goal variable selected: transition problem
+2024-09-24 00:49:49 Defining goal variable as 'TRANSMISSION ISSUE'
+2024-09-24 00:49:49 Searching conclusion list for goal: TRANSMISSION ISSUE
+2024-09-24 00:49:49 Matching goals found: [13, 14, 15, 16]
+2024-09-24 00:49:49 Updating variable list for clause: 97
+2024-09-24 00:49:49 Searching conclusion list for goal: TRANSMISSION PROBLEM
+2024-09-24 00:49:49 Matching goals found: [12]
+2024-09-24 00:49:49 Updating variable list for clause: 89
+2024-09-24 00:49:57 Validating rule 12
+2024-09-24 00:49:57 Updated global variable TRANSMISSION PROBLEM to 'yes'
+2024-09-24 00:49:59 Validating rule 13
+2024-09-24 00:49:59 Calling forward chaining process for repair recommendation
+2024-09-24 00:49:59 Searching clause variable list for goal: TRANSMISSION FLUID PROBLEM
+2024-09-24 00:49:59 Clause 37 corresponds to Rule 13
+2024-09-24 00:49:59 Updating variable list for clause: 37
+2024-09-24 00:50:02 Validating rule 13
+2024-09-24 00:52:07 PROGRAM START
+2024-09-24 00:52:07 PROGRAM START
+2024-09-24 00:52:07 Starting backward chaining process
+2024-09-24 00:52:14 User input received: yes
+2024-09-24 00:52:21 Goal variable selected: engine issue
+2024-09-24 00:52:21 Defining goal variable as 'ENGINE ISSUE'
+2024-09-24 00:52:21 Searching conclusion list for goal: ENGINE ISSUE
+2024-09-24 00:52:21 Matching goals found: [7, 8, 9, 10, 11]
+2024-09-24 00:52:21 Updating variable list for clause: 49
+2024-09-24 00:52:21 Searching conclusion list for goal: ENGINE PROBLEM
+2024-09-24 00:52:21 Matching goals found: [6]
+2024-09-24 00:52:21 Updating variable list for clause: 41
+2024-09-24 00:52:33 Validating rule 6
+2024-09-24 00:52:33 Updated global variable ENGINE PROBLEM to 'yes'
+2024-09-24 00:52:38 Validating rule 7
+2024-09-24 00:52:38 Calling forward chaining process for repair recommendation
+2024-09-24 00:52:38 Searching clause variable list for goal: COOLANT LEAK
+2024-09-24 00:52:38 Clause 19 corresponds to Rule 7
+2024-09-24 00:52:38 Updating variable list for clause: 19
+2024-09-24 00:52:42 Validating rule 7
+2024-09-24 00:53:19 PROGRAM START
+2024-09-24 00:53:19 PROGRAM START
+2024-09-24 00:53:19 Starting backward chaining process
+2024-09-24 00:53:22 User input received: yes
+2024-09-24 00:53:29 Goal variable selected: transition problem
+2024-09-24 00:53:29 Defining goal variable as 'TRANSMISSION ISSUE'
+2024-09-24 00:53:29 Searching conclusion list for goal: TRANSMISSION ISSUE
+2024-09-24 00:53:29 Matching goals found: [13, 14, 15, 16]
+2024-09-24 00:53:29 Updating variable list for clause: 97
+2024-09-24 00:53:29 Searching conclusion list for goal: TRANSMISSION PROBLEM
+2024-09-24 00:53:29 Matching goals found: [12]
+2024-09-24 00:53:29 Updating variable list for clause: 89
+2024-09-24 00:53:39 Validating rule 12
+2024-09-24 00:53:39 Updated global variable TRANSMISSION PROBLEM to 'yes'
+2024-09-24 00:53:44 Validating rule 13
+2024-09-24 00:53:44 Updating variable list for clause: 105
+2024-09-24 00:53:44 Searching conclusion list for goal: TRANSMISSION PROBLEM
+2024-09-24 00:53:44 Matching goals found: [12]
+2024-09-24 00:53:44 Updating variable list for clause: 89
+2024-09-24 00:53:44 Validating rule 12
+2024-09-24 00:53:49 Validating rule 14
+2024-09-24 00:53:49 Calling forward chaining process for repair recommendation
+2024-09-24 00:53:49 Searching clause variable list for goal: TRANSMISSION SLIPPAGE PROBLEM
+2024-09-24 00:53:49 Clause 40 corresponds to Rule 14
+2024-09-24 00:53:49 Updating variable list for clause: 40
+2024-09-24 00:54:05 Validating rule 14
+2024-09-24 00:57:22 PROGRAM START
+2024-09-24 00:57:22 PROGRAM START
+2024-09-24 00:57:22 Starting backward chaining process
+2024-09-24 00:57:28 User input received: yes
+2024-09-24 00:57:33 Goal variable selected: starting problem
+2024-09-24 00:57:33 Defining goal variable as 'STARTING PROBLEM'
+2024-09-24 00:57:33 Searching conclusion list for goal: STARTING PROBLEM
+2024-09-24 00:57:33 Matching goals found: [2, 3, 4, 5]
+2024-09-24 00:57:33 Updating variable list for clause: 9
+2024-09-24 00:57:37 Validating rule 2
+2024-09-24 00:57:37 Calling forward chaining process for repair recommendation
+2024-09-24 00:57:37 Searching clause variable list for goal: ELECTRICAL SYSTEM PROBLEM
+2024-09-24 00:57:37 Clause 4 corresponds to Rule 2
+2024-09-24 00:57:37 Updating variable list for clause: 4
+2024-09-24 00:57:39 Validating rule 2
+2024-09-24 14:08:25 PROGRAM START
+2024-09-24 14:08:25 PROGRAM START
+2024-09-24 14:08:25 Starting backward chaining process
+2024-09-24 14:35:27 PROGRAM START
+2024-09-24 14:35:27 PROGRAM START
+2024-09-24 14:35:27 Starting backward chaining process
+2024-09-24 14:35:29 User input received: yes
+2024-09-24 14:41:09 Goal variable selected: engine issue
+2024-09-24 14:41:09 Defining goal variable as 'ENGINE ISSUE'
+2024-09-24 14:41:09 Searching conclusion list for goal: ENGINE ISSUE
+2024-09-24 14:41:09 Matching goals found: [7, 8, 9, 10, 11]
+2024-09-24 14:41:09 Updating variable list for clause: 49
+2024-09-24 14:41:09 Searching conclusion list for goal: ENGINE PROBLEM
+2024-09-24 14:41:09 Matching goals found: [6]
+2024-09-24 14:41:09 Updating variable list for clause: 41
+2024-09-24 14:41:18 Validating rule 6
+2024-09-24 14:41:18 Updated global variable ENGINE PROBLEM to 'yes'
+2024-09-24 14:41:54 Validating rule 7
+2024-09-24 14:41:54 Updating variable list for clause: 57
+2024-09-24 14:41:54 Searching conclusion list for goal: ENGINE PROBLEM
+2024-09-24 14:41:54 Matching goals found: [6]
+2024-09-24 14:41:54 Updating variable list for clause: 41
+2024-09-24 14:41:54 Validating rule 6
+2024-09-24 14:42:01 Validating rule 8
+2024-09-24 14:42:01 Updating variable list for clause: 65
+2024-09-24 14:42:01 Searching conclusion list for goal: ENGINE PROBLEM
+2024-09-24 14:42:01 Matching goals found: [6]
+2024-09-24 14:42:01 Updating variable list for clause: 41
+2024-09-24 14:42:01 Validating rule 6
+2024-09-24 14:42:11 Validating rule 9
+2024-09-24 14:42:11 Calling forward chaining process for repair recommendation
+2024-09-24 14:42:11 Searching clause variable list for goal: ENGINE MISFIRE
+2024-09-24 14:42:11 Clause 25 corresponds to Rule 9
+2024-09-24 14:42:11 Updating variable list for clause: 25
+2024-09-24 14:42:14 Validating rule 9
+2024-09-24 14:53:35 PROGRAM START
+2024-09-24 14:53:35 PROGRAM START
+2024-09-24 14:53:35 Starting backward chaining process
+2024-09-24 14:53:37 User input received: yes
+2024-09-24 14:53:47 Goal variable selected: engine issue
+2024-09-24 14:53:47 Defining goal variable as 'ENGINE ISSUE'
+2024-09-24 14:53:47 Searching conclusion list for goal: ENGINE ISSUE
+2024-09-24 14:53:47 Matching goals found: [7, 8, 9, 10, 11]
+2024-09-24 14:53:47 Updating variable list for clause: 49
+2024-09-24 14:53:47 Searching conclusion list for goal: ENGINE PROBLEM
+2024-09-24 14:53:47 Matching goals found: [6]
+2024-09-24 14:53:47 Updating variable list for clause: 41
+2024-09-24 14:53:49 Saved derived variable HAVING DIFFICULTY: no to derived_backward_variables.json
+2024-09-24 14:53:50 Saved derived variable POOR ACCELERATION: yes to derived_backward_variables.json
+2024-09-24 14:53:52 Saved derived variable NOISE FROM ENGINE: yes to derived_backward_variables.json
+2024-09-24 14:53:54 Saved derived variable ENGINE LIGHT ON: yes to derived_backward_variables.json
+2024-09-24 14:53:54 Validating rule 6
+2024-09-24 14:53:54 Saved derived variable ENGINE PROBLEM: yes to derived_backward_variables.json
+2024-09-24 14:53:54 Updated global variable ENGINE PROBLEM to 'yes'
+2024-09-24 14:54:00 Saved derived variable ENGINE OVERHEATING: yes to derived_backward_variables.json
+2024-09-24 14:54:04 Saved derived variable COOLANT LEVEL LOW: yes to derived_backward_variables.json
+2024-09-24 14:54:04 Validating rule 7
+2024-09-24 14:54:04 Calling forward chaining process for repair recommendation
+2024-09-24 14:54:04 Searching clause variable list for goal: COOLANT LEAK
+2024-09-24 14:54:04 Clause 19 corresponds to Rule 7
+2024-09-24 14:54:04 Updating variable list for clause: 19
+2024-09-24 14:54:39 PROGRAM START
+2024-09-24 14:54:39 PROGRAM START
+2024-09-24 14:54:39 Starting backward chaining process
+2024-09-24 14:54:41 User input received: yes
+2024-09-24 14:54:47 Goal variable selected: engine issue
+2024-09-24 14:54:47 Defining goal variable as 'ENGINE ISSUE'
+2024-09-24 14:54:47 Searching conclusion list for goal: ENGINE ISSUE
+2024-09-24 14:54:47 Matching goals found: [7, 8, 9, 10, 11]
+2024-09-24 14:54:47 Updating variable list for clause: 49
+2024-09-24 14:54:47 Searching conclusion list for goal: ENGINE PROBLEM
+2024-09-24 14:54:47 Matching goals found: [6]
+2024-09-24 14:54:47 Updating variable list for clause: 41
+2024-09-24 14:54:49 Saved derived variable HAVING DIFFICULTY: no to derived_backward_variables.json
+2024-09-24 14:54:51 Saved derived variable POOR ACCELERATION: yes to derived_backward_variables.json
+2024-09-24 14:54:53 Saved derived variable NOISE FROM ENGINE: yes to derived_backward_variables.json
+2024-09-24 14:54:55 Saved derived variable ENGINE LIGHT ON: yes to derived_backward_variables.json
+2024-09-24 14:54:55 Validating rule 6
+2024-09-24 14:54:55 Saved derived variable ENGINE PROBLEM: yes to derived_backward_variables.json
+2024-09-24 14:54:55 Updated global variable ENGINE PROBLEM to 'yes'
+2024-09-24 14:55:00 Saved derived variable ENGINE OVERHEATING: yes to derived_backward_variables.json
+2024-09-24 14:55:02 Saved derived variable COOLANT LEVEL LOW: yes to derived_backward_variables.json
+2024-09-24 14:55:02 Validating rule 7
+2024-09-24 14:55:02 Calling forward chaining process for repair recommendation
+2024-09-24 14:55:02 Searching clause variable list for goal: COOLANT LEAK
+2024-09-24 14:55:02 Clause 19 corresponds to Rule 7
+2024-09-24 14:55:02 Updating variable list for clause: 19
+2024-09-24 14:55:05 Saved derived variable COOLANT LEAK: yes to derived_forward_variables.json
+2024-09-24 14:55:05 Validating rule 7
+2024-09-24 15:06:11 PROGRAM START
+2024-09-24 15:06:11 PROGRAM START
+2024-09-24 15:06:11 Starting backward chaining process
+2024-09-24 15:06:12 User input received:  hi
+2024-09-24 15:23:26 PROGRAM START
+2024-09-24 15:23:26 PROGRAM START
+2024-09-24 15:23:26 Starting backward chaining process
+2024-09-24 15:23:29 User input received: yes
+2024-09-24 15:23:34 Goal variable selected: engine issue
+2024-09-24 15:23:34 Defining goal variable as 'ENGINE ISSUE'
+2024-09-24 15:23:34 Searching conclusion list for goal: ENGINE ISSUE
+2024-09-24 15:23:34 Matching goals found: [7, 8, 9, 10, 11]
+2024-09-24 15:23:34 Updating variable list for clause: 49
+2024-09-24 15:23:34 Searching conclusion list for goal: ENGINE PROBLEM
+2024-09-24 15:23:34 Matching goals found: [6]
+2024-09-24 15:23:34 Updating variable list for clause: 41
+2024-09-24 15:23:50 Saved derived variable HAVING DIFFICULTY: yes to derived_backward_variables.json
+2024-09-24 15:23:58 Saved derived variable POOR ACCELERATION: no to derived_backward_variables.json
+2024-09-24 15:26:55 PROGRAM START
+2024-09-24 15:26:55 PROGRAM START
+2024-09-24 15:26:55 Starting backward chaining process
+2024-09-24 15:26:58 User input received: yes
+2024-09-24 15:27:03 Goal variable selected: engine issue
+2024-09-24 15:27:03 Defining goal variable as 'ENGINE ISSUE'
+2024-09-24 15:27:03 Searching conclusion list for goal: ENGINE ISSUE
+2024-09-24 15:27:03 Matching goals found: [7, 8, 9, 10, 11]
+2024-09-24 15:27:03 Updating variable list for clause: 49
+2024-09-24 15:27:03 Searching conclusion list for goal: ENGINE PROBLEM
+2024-09-24 15:27:03 Matching goals found: [6]
+2024-09-24 15:27:03 Updating variable list for clause: 41
+2024-09-24 15:27:13 Saved derived variable HAVING DIFFICULTY: no to derived_backward_variables.json
+2024-09-24 15:27:13 Validating rule 6
+2024-09-24 15:27:34 PROGRAM START
+2024-09-24 15:27:34 PROGRAM START
+2024-09-24 15:27:34 Starting backward chaining process
+2024-09-24 15:27:36 User input received: yes
+2024-09-24 15:27:42 Goal variable selected: engine issue
+2024-09-24 15:27:42 Defining goal variable as 'ENGINE ISSUE'
+2024-09-24 15:27:42 Searching conclusion list for goal: ENGINE ISSUE
+2024-09-24 15:27:42 Matching goals found: [7, 8, 9, 10, 11]
+2024-09-24 15:27:42 Updating variable list for clause: 49
+2024-09-24 15:27:42 Searching conclusion list for goal: ENGINE PROBLEM
+2024-09-24 15:27:42 Matching goals found: [6]
+2024-09-24 15:27:42 Updating variable list for clause: 41
+2024-09-24 15:27:49 Saved derived variable HAVING DIFFICULTY: no to derived_backward_variables.json
+2024-09-24 15:27:51 Saved derived variable POOR ACCELERATION: yes to derived_backward_variables.json
+2024-09-24 15:27:52 Saved derived variable NOISE FROM ENGINE: yes to derived_backward_variables.json
+2024-09-24 15:27:54 Saved derived variable ENGINE LIGHT ON: yes to derived_backward_variables.json
+2024-09-24 15:27:54 Validating rule 6
+2024-09-24 15:27:54 Saved derived variable ENGINE PROBLEM: yes to derived_backward_variables.json
+2024-09-24 15:27:54 Updated global variable ENGINE PROBLEM to 'yes'
+2024-09-24 15:27:56 Saved derived variable ENGINE OVERHEATING: no to derived_backward_variables.json
+2024-09-24 15:27:57 Saved derived variable COOLANT LEVEL LOW: no to derived_backward_variables.json
+2024-09-24 15:27:57 Validating rule 7
+2024-09-24 15:27:57 Updating variable list for clause: 57
+2024-09-24 15:27:57 Searching conclusion list for goal: ENGINE PROBLEM
+2024-09-24 15:27:57 Matching goals found: [6]
+2024-09-24 15:27:57 Updating variable list for clause: 41
+2024-09-24 15:27:57 Validating rule 6
+2024-09-24 15:27:58 Saved derived variable RADIATOR FAN WORKING: no to derived_backward_variables.json
+2024-09-24 15:27:58 Validating rule 8
+2024-09-24 15:27:58 Updating variable list for clause: 65
+2024-09-24 15:27:58 Searching conclusion list for goal: ENGINE PROBLEM
+2024-09-24 15:27:58 Matching goals found: [6]
+2024-09-24 15:27:58 Updating variable list for clause: 41
+2024-09-24 15:27:58 Validating rule 6
+2024-09-24 15:27:59 Saved derived variable ENGINE SHAKING: no to derived_backward_variables.json
+2024-09-24 15:28:00 Saved derived variable SPARK PLUGS FOULED: no to derived_backward_variables.json
+2024-09-24 15:28:00 Validating rule 9
+2024-09-24 15:28:00 Updating variable list for clause: 73
+2024-09-24 15:28:00 Searching conclusion list for goal: ENGINE PROBLEM
+2024-09-24 15:28:00 Matching goals found: [6]
+2024-09-24 15:28:00 Updating variable list for clause: 41
+2024-09-24 15:28:00 Validating rule 6
+2024-09-24 15:28:01 Saved derived variable FUEL PRESSURE LOW: no to derived_backward_variables.json
+2024-09-24 15:28:01 Validating rule 10
+2024-09-24 15:28:01 Updating variable list for clause: 81
+2024-09-24 15:28:01 Searching conclusion list for goal: ENGINE PROBLEM
+2024-09-24 15:28:01 Matching goals found: [6]
+2024-09-24 15:28:01 Updating variable list for clause: 41
+2024-09-24 15:28:01 Validating rule 6
+2024-09-24 15:28:02 Saved derived variable AIR FILTER DIRTY: no to derived_backward_variables.json
+2024-09-24 15:28:02 Validating rule 11

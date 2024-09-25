@@ -1,0 +1,14 @@
+{
+  "HAVING DIFFICULTY": "no",
+  "POOR ACCELERATION": "yes",
+  "NOISE FROM ENGINE": "yes",
+  "ENGINE LIGHT ON": "yes",
+  "ENGINE PROBLEM": "yes",
+  "ENGINE OVERHEATING": "no",
+  "COOLANT LEVEL LOW": "no",
+  "RADIATOR FAN WORKING": "no",
+  "ENGINE SHAKING": "no",
+  "SPARK PLUGS FOULED": "no",
+  "FUEL PRESSURE LOW": "no",
+  "AIR FILTER DIRTY": "no"
+}

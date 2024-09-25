@@ -1,0 +1,166 @@
+{
+  "GOT PROBLEM": {
+    "Question": "Does your car have a problem?",
+    "Userinput": ""
+  },
+  "HAVING DIFFICULTY": {
+    "Question": "Is your car having difficulty starting or running?",
+    "Userinput": ""
+  },
+  "DASHBOARD LIGHTS DIM": {
+    "Question": "Do the dashboard lights dim when the car starts?",
+    "Userinput": ""
+  },
+  "CLICKING SOUND": {
+    "Question": "Does the car make a clicking sound when the key is turned?",
+    "Userinput": ""
+  },
+  "POWER" : {
+    "Question": "Does the car have power (lights, radio, etc.)?",
+    "Userinput": ""
+  },
+  "STEERING WHEEL STIFF" : {
+    "Question": "Is the steering wheel stiff?",
+    "Userinput": ""
+  },
+  "NOISE WHEN TURNING" : {
+    "Question": "Do you hear noise when turning?",
+    "Userinput": ""
+  },
+  "POOR ACCELERATION": {
+     "Question": "Is the car experiencing poor acceleration?",
+     "Userinput": ""
+  },
+  "NOISE FROM ENGINE": {
+     "Question": "Do you hear noise from the engine?",
+     "Userinput": ""
+  },
+  "ENGINE LIGHT ON": {
+     "Question": "Is the engine light on?",
+     "Userinput": ""
+  },
+  "ENGINE OVERHEATING": {
+     "Question": "Is the engine overheating?",
+     "Userinput": ""
+  },
+  "COOLANT LEVEL LOW": {
+     "Question": "Is the coolant level low?",
+     "Userinput": ""
+  },
+  "RADIATOR FAN WORKING": {
+     "Question": "Is the radiator fan working?",
+     "Userinput": ""
+  },
+  "ENGINE SHAKING": {
+     "Question": "Is the engine shaking?",
+     "Userinput": ""
+  },
+  "SPARK PLUGS FOULED": {
+     "Question": "Are the spark plugs fouled?",
+     "Userinput": ""
+  },
+ "FUEL PRESSURE LOW": {
+     "Question": "Is the fuel pressure low?",
+     "Userinput": ""
+  },
+  "AIR FILTER DIRTY": {
+     "Question": "Is the air filter dirty?",
+     "Userinput": ""
+  },
+  "CAR JERK WHEN ACCELERATING": {
+       "Question": "Does the car jerk when accelerating?",
+       "Userinput": ""
+  },
+  "TRANSMISSION FLUID LOW": {
+       "Question": "Is the transmission fluid low?",
+       "Userinput": ""
+    },
+
+   "CAR JERK WHEN SHIFTING GEARS": {
+     "Question": "Does the car jerk when shifting gears?",
+     "Userinput": ""
+  },
+
+  "TRANSMISSION NOISE WHEN ACCELERATING": {
+     "Question": "Do you hear transmission noise when accelerating?",
+     "Userinput": ""
+  },
+   "FLUID LEAKS UNDER THE CAR": {
+     "Question": "Do you see fluid leaks under the car?",
+     "Userinput": ""
+  },
+  "FLUID COLOR IS RED": {
+     "Question": "Is the leaking fluid red in color?",
+     "Userinput": ""
+  },
+   "CANNOT SLOWDOWN WHEN BRAKING": {
+     "Question": "Is the car unable to slow down when braking?",
+     "Userinput": ""
+  },
+  "BRAKE PEDAL FEEL SPONGY": {
+     "Question": "Does the brake pedal feel spongy?",
+     "Userinput": ""
+  },
+  "BRAKE FLUID LEVEL LOW": {
+     "Question": "Is the brake fluid level low?",
+     "Userinput": ""
+  },
+   "BRAKE PEDAL HARD TO PRESS": {
+     "Question": "Is the brake pedal hard to press?",
+     "Userinput": ""
+  },
+  "CAR TAKES LONGER TO STOP": {
+       "Question": "Does the car take longer to stop?",
+       "Userinput": ""
+  },
+  "STEERING FEEL LOOSE": {
+     "Question": "Does the steering feel loose?",
+     "Userinput": ""
+  },
+  "CAR PULLS TO ONE SIDE WHILE DRIVING": {
+     "Question": "Does the car pull to one side while driving?",
+     "Userinput": ""
+  },
+
+   "STEERING WHEEL VIBRATES": {
+     "Question": "Does the steering wheel vibrate?",
+     "Userinput": ""
+  },
+  "VIBRATION WORSENS WHEN BRAKING": {
+     "Question": "Does the vibration worsen when braking?",
+     "Userinput": ""
+  },
+ "STEERING DIFFICULT TO TURN": {
+     "Question": "Is it difficult to turn the steering wheel?",
+     "Userinput": ""
+  },
+  "WHINING NOISE": {
+     "Question": "Do you hear a whining noise when driving?",
+     "Userinput": ""
+  },
+  "CLICKING NOISE": {
+     "Question": "Do you hear a clicking noise?",
+     "Userinput": ""
+  },
+  "UNUSUAL NOISE FROM EXHAUST": {
+     "Question": "Do you hear unusual noise from the exhaust?",
+     "Userinput": ""
+  },
+   "NOISE COMING FROM UNDER CAR": {
+     "Question": "Is there noise coming from under the car?",
+     "Userinput": ""
+  },
+  "EXHAUST SMELL INSIDE CAR": {
+     "Question": "Do you smell exhaust inside the car?",
+     "Userinput": ""
+  },
+  "EXCESSIVE SMOKE FROM EXHAUST": {
+     "Question": "Is there excessive smoke from the exhaust?",
+     "Userinput": ""
+  },
+  "BLACK SMOKE" :{
+     "Question": "Does the smoke is black?",
+     "Userinput": ""
+  }
+
+}
